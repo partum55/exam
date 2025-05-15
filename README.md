@@ -85,7 +85,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/partum55/exam.git
-cd data-structures-algorithms
+cd exam
 ```
 
 ## Usage
